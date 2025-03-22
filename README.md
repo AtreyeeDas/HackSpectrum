@@ -12,7 +12,6 @@ This project is an AI-powered **diabetes risk prediction system** that utilizes 
 - 🔍 **Predicts diabetes risk** based on health metrics.
 - ⚡ **Ensemble ML Model (Voting Classifier)** for high accuracy.
 - 🤖 **Gemini API for AI-driven medical explanations**.
-- 🩺 **Infermedica API for symptom-based risk assessment**.
 - 🌐 **Deployed as a web API using FastAPI & ngrok**.
 
 ---
@@ -49,7 +48,7 @@ The following models were trained and evaluated:
 
 ### 🏆 **Final Model: Voting Classifier**
 An **ensemble model** combining the best-performing classifiers.  
-**Final Accuracy**: `~81.2%`
+**Final Accuracy**: `~79.3%`
 
 ---
 
